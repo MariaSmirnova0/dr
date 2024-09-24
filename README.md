@@ -1,4 +1,3 @@
-remote_theme: pages-themes/architect@v0.2.0
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,7 +6,7 @@ remote_theme: pages-themes/architect@v0.2.0
 <body>
   <h1>Послушай:</h1>
   <audio controls>
-    <source src="\Ernest_Merkel.mp3" type="audio/mpeg">
+    <source src="./assets/Ernest_Merkel.mp3" type="audio/mpeg">
     Ваш браузер не поддерживает воспроизведение аудио.
   </audio>
 </body>
