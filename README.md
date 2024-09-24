@@ -7,7 +7,7 @@ remote_theme: pages-themes/architect@v0.2.0
 <body>
   <h1>Послушай:</h1>
   <audio controls>
-    <source src="C:\Users\Мария\Desktop\dr\Ernest_Merkel.mp3" type="audio/mpeg">
+    <source src="\Ernest_Merkel.mp3" type="audio/mpeg">
     Ваш браузер не поддерживает воспроизведение аудио.
   </audio>
 </body>
