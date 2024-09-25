@@ -4,7 +4,7 @@
   <style>
     audio {
       width: 100%;
-      height: 150px;
+      height: 100px;
     }
   </style>
 </head>
