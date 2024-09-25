@@ -1,9 +1,4 @@
-theme: jekyll-theme-architect
-title: С Днем Рождения!
 <html>
-<head>
-  <title>MP3 Player</title>
-</head>
 <body>
   <h1>Послушай:</h1>
   <audio controls>
